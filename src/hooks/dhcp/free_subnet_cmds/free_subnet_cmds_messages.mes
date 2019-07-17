@@ -1,0 +1,13 @@
+% FREE_SUBNET_CMDS_ADD4 free-subnet4-add command successful (parameters: %1)
+The free-subnet4-add command has been successful. Parameters of the host
+added are logged.
+
+% FREE_SUBNET_CMDS_DEINIT_OK unloading Free Subnet Commands hooks library successful
+This info message indicates that the Free Subnet Commands hooks library has been
+removed successfully.
+
+
+% FREE_SUBNET_CMDS_INIT_OK loading Free Subnet Commands hooks library successful
+This info message indicates that the Free Subnet Commands hooks library has been
+loaded successfully. Enjoy!
+

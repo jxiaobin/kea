@@ -1549,6 +1549,7 @@ AC_CONFIG_FILES([Makefile
                  src/hooks/dhcp/user_chk/tests/test_data_files_config.h
                  src/hooks/dhcp/stat_cmds/Makefile
                  src/hooks/dhcp/stat_cmds/tests/Makefile
+                 src/hooks/dhcp/free_subnet_cmds/Makefile
                  src/lib/Makefile
                  src/lib/asiodns/Makefile
                  src/lib/asiodns/tests/Makefile
